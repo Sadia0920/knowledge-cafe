@@ -1,0 +1,43 @@
+[
+    {
+      "id": "1",
+      "cover_img": "https://i.ibb.co.com/fxZLM8w/1036116-94429-OJZK5-D-779.jpg",
+      "author": "Alex Johnson",
+      "title": "The Future of E-Learning: Opportunities and Challenges",
+      "author_img": "https://i.imgur.com/MTzUggA.jpg",
+      "posted_date": "2024-09-10",
+      "reading_time": 5,
+      "hashtag": "#E-Learning #Technology #Innovation"
+    },
+    {
+      "id": "2",
+      "cover_img": "https://i.ibb.co.com/RhZG8Lp/1018954-92604-OJH20-V-258.jpg",
+      "title": "Global Education: A learning platform for Beginners",
+      "author": "Maria Perez",
+      "author_img": "https://i.imgur.com/sPNeZdu.jpg",
+      "posted_date": "2024-08-21",
+      "reading_time": 7,
+      "hashtag": "#Global #Learning-Platform"
+    },
+    {
+      "id": "3",
+      "cover_img": "https://i.ibb.co.com/TPd3VR2/4083480-2111982.jpg",
+      "title": "Exploring Technologies: AI 2030",
+      "author": "David Lee",
+      "author_img": "https://i.imgur.com/sPNeZdu.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 10,
+      "hashtag": "#TechnologyExploration #AI #Science"
+    },
+    {
+      "id": "4",
+      "cover_img": "https://i.ibb.co.com/7JKCn99/2916220-414589-PE6-EYF-64.jpg",
+      "title": "Online Education For Students",
+      "author": "Sara Ahmed",
+      "author_img": "https://i.imgur.com/sPNeZdu.jpg",
+      "posted_date": "2024-09-25",
+      "reading_time": 16,
+      "hashtag": "#OnlineEducation #Students"
+    }
+  ]
+  
